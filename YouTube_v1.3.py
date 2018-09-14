@@ -2,6 +2,8 @@
 # 多线程下载CSV中的youtube播放列表，前提条件通过其他python完成播放列表的CSV导出
 # 有字幕，有视频
 # 无效验下载完整性，todo
+# test
+# 测试一下备机同步
 
 import re
 import os
